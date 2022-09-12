@@ -14,8 +14,8 @@ A Colorado Board of Elections employee, Steve (and Seth) has given me the follow
 9. Share the results on a text file, but also output on the terminal when the code is ran.
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code, 1.71.0
+- Data Source: election_results.csv
+- Software: Python 3.7.6, Visual Studio Code, 1.71.0
 
 [Election Analysis Challenge Python File](https://github.com/EnderFreak/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
