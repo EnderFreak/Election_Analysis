@@ -58,4 +58,3 @@ A overview of the election was printed; the total number of votes and the names 
 Furthermore, this script can be used, with some modifications, for any election. A few notes to keep in mind is:
 - make sure the path for the file to read and the text file to write in is written correctly in the "with open()" statement
 - should the analysis be on another parameter like if there was a "State" field, making sure the "row[x]" where x is the column number starting at index 0, is changed to reflect the correct field.
-- 
